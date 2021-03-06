@@ -8,13 +8,15 @@ namespace Cidades_litoral
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Peruibe");
-            Console.WriteLine("Itanhaem");
+            Console.WriteLine("Peruíbe");
+            Console.WriteLine("Itanhaém");
             Console.WriteLine("Bertioga");
             Console.WriteLine();
 
-            Console.WriteLine("Mongagua");
+            Console.WriteLine("Mongaguá");
             Console.WriteLine("Praia Grande");
+            
+            Console.ReadKey();
 
         }
     }
